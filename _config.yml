@@ -6,11 +6,11 @@ title:               Aiden
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://isme2n.github.io
+url:                 https://shleei2.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             ""
+baseurl:             "https://shleei2.github.io"
 
 # A very short description of your page
 tagline:             가장 게으르기위해 가장 부지런한 개발자
